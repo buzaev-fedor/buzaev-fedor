@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @buzaev-fedor and I'm student CS HSE.
-- 👀 I’m interested in computer vision, python and flask.
-- 🌱 I would learning C++
+- 👋 Hi, I’m @buzaev-fedor and I'm master student CS HSE.
+- 👀 I’m interested in neural nets in physics, python and flask.
 - 📫 How to reach me: tg: @fbuzaev
 
 <!---
