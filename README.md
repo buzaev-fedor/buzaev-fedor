@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buzaev-fedor and I'm master student CS HSE.
+- 👋 Hi, I’m @buzaev-fedor and I'm phd student CS HSE.
 - 👀 I’m interested in neural nets in physics, python and flask.
 - 📫 How to reach me: tg: @fbuzaev
 
