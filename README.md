@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @buzaev-fedor and I'm phd student CS HSE.
-- 👀 I’m interested in neural nets in physics, python and flask.
+- 👋 Hi, I’m @buzaev-fedor and I'm PhD student CS HSE.
+- 👀 I’m interested in neural nets in physics.
 - 📫 How to reach me: tg: @fbuzaev
 
 <!---
